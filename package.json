@@ -64,6 +64,7 @@
     "d3-shape": "^3.1.0",
     "eventemitter3": "^4.0.1",
     "lodash": "^4.17.19",
+    "prepack": "node scripts/build.js",
     "react-is": "^16.10.2",
     "react-resize-detector": "^7.1.2",
     "react-smooth": "github:joshtechnologygroup/react-smooth",
